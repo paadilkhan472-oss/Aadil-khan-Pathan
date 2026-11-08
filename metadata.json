@@ -1,0 +1,6 @@
+{
+  "name": "Vision AI",
+  "description": "Futuristic JARVIS-inspired Vision AI Stark Edition with voice conversations in Hindi and English, multimodal vision understanding, system tools, app launching, WhatsApp, and call actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
